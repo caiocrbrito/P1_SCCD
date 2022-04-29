@@ -27,4 +27,5 @@ mv /var/www/html/873219-690e1f604dc8ead2583589e1aee6f8a42040a035/cv-resumido.htm
 # Removendo pasta
 rm -r /var/www/html/873219-690e1f604dc8ead2583589e1aee6f8a42040a035
 
+# Inicializando o servidor
 /etc/init.d/apache2 start
