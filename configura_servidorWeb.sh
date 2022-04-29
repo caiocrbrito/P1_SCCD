@@ -8,7 +8,7 @@ apt-get upgrade
 apt install apache2
 apt install wget
 apt install zip unzip
-apt install git-all
+# Nao precisava do git
 
 # Fazendo download do arquivo
 wget https://gist.github.com/nunomazer/873219/archive/690e1f604dc8ead2583589e1aee6f8a42040a035.zip
